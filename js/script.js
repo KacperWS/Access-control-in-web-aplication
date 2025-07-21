@@ -1,4 +1,3 @@
-let main_dir = "/mebelki/public";
 function dark()
 	{
 		if(typeof(Storage) !== "undefined") {
