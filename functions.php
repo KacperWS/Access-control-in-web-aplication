@@ -29,5 +29,10 @@ function directEmployee($number)
 		return true;
 	else return false;
 }
-
+function checkAuth()
+{
+	if(false)
+		return true;
+	else return false;
+}
 ?>
